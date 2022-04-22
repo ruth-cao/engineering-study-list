@@ -1,0 +1,1 @@
+* Postgres can handle up to __20K__ write transactions and __1MM__ point select per second on SSD

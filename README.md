@@ -8,4 +8,8 @@ A curated list of articles and videos to study engineering best practices.
 
 [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 
+[Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+
+[Caching Strategies and How to Choose the Right One](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)
+
 [A framework for product strategy](https://medium.com/neemz-product/building-the-product-strategy-bf0cb660480b)

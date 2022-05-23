@@ -6,6 +6,8 @@ A curated list of articles and videos to study engineering best practices.
 
 [eBay’s Architecture Principles](https://www.youtube.com/watch?v=OYY3XR2JT3o)
 
+[Etsy's architecture review process - Multiple Perspectives On Technical Problems and Solutions](https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/)
+
 [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 
 [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)

@@ -17,4 +17,6 @@ A curated list of articles and videos to study engineering best practices.
 
 [Spanner: Google's Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
+[Realtime Data Processing at Facebook](https://pages.cs.wisc.edu/~shivaram/cs744-readings/Facebook-Streaming.pdf)
+
 [A framework for product strategy](https://medium.com/neemz-product/building-the-product-strategy-bf0cb660480b)

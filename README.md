@@ -6,6 +6,8 @@ A curated list of articles and videos to study engineering best practices.
 
 [Etsy's architecture review process - Multiple Perspectives On Technical Problems and Solutions](https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/)
 
+[How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+
 ## API
 [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 

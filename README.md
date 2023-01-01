@@ -24,6 +24,8 @@ A curated list of articles and videos to study software engineering best practic
 
 [Spanner: Google's Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
+[Should you go Beyond Relational Databases?](https://blog.teamtreehouse.com/should-you-go-beyond-relational-databases)
+
 ## Data Processing
 [Realtime Data Processing at Facebook](https://pages.cs.wisc.edu/~shivaram/cs744-readings/Facebook-Streaming.pdf)
 

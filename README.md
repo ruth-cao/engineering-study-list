@@ -1,5 +1,5 @@
-# Engineering Study List
-A curated list of articles and videos to study engineering best practices.
+# Software Engineering Study List
+A curated list of articles and videos to study software engineering best practices.
 
 ## Architecture
 [eBay’s Architecture Principles](https://www.youtube.com/watch?v=OYY3XR2JT3o)

@@ -1,6 +1,11 @@
 # Software Engineering Study List
 A curated list of articles and videos to study software engineering best practices.
 
+
+## GenAI
+[Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+[Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
+
 ## Architecture
 [eBay’s Architecture Principles](https://www.youtube.com/watch?v=OYY3XR2JT3o)
 
@@ -28,9 +33,6 @@ A curated list of articles and videos to study software engineering best practic
 
 ## Data Processing
 [Realtime Data Processing at Facebook](https://pages.cs.wisc.edu/~shivaram/cs744-readings/Facebook-Streaming.pdf)
-
-## AI
-[Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 
 ## Misc
 [How I calculate capacity for Systems Design](https://dev.to/ievolved/how-i-calculate-capacity-for-systems-design-3477)

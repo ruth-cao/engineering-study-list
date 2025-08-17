@@ -4,6 +4,7 @@ A curated list of articles and videos to study software engineering best practic
 
 ## GenAI
 [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+
 [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
 
 ## Architecture

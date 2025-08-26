@@ -7,6 +7,10 @@ A curated list of articles and videos to study software engineering best practic
 
 [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
 
+[Neural Networks (and the math behind how they learn)](https://www.3blue1brown.com/?v=neural-networks)
+
+[Next Step of Machine Learning](https://www.youtube.com/playlist?list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
+
 ## Architecture
 [eBay’s Architecture Principles](https://www.youtube.com/watch?v=OYY3XR2JT3o)
 
